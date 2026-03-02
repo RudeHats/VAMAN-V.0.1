@@ -1,7 +1,7 @@
-# LARA: The Autonomous Car 🚗
+# VAMAN V.01 : The Autonomous Car 🚗
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=100&duration=4000&lines=LARA+The+Autonomous+Car+Project!+🚗;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=100&duration=4000&lines=The+Autonomous+Car+Project!+🚗;" />
 </h1>
 
 LARA is an autonomous car project currently under construction. It aims to develop an advanced robotic system capable of intelligent navigation and obstacle detection.
